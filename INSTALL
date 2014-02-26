@@ -1,9 +1,9 @@
-Building SmallChange
+Building newcenturycoin
 
-See doc/readme-qt.rst for instructions on building smallchange-qt,
+See doc/readme-qt.rst for instructions on building newcenturycoin-qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of SmallChange.
+implementation of newcenturycoin.
 
-See doc/build-*.txt for instructions on building smallchange,
+See doc/build-*.txt for instructions on building newcenturycoin,
 the intended-for-services, no-graphical-interface, reference
-implementation of SmallChange.
+implementation of newcenturycoin.
